@@ -31,6 +31,11 @@ public abstract class BaseActivity extends AppCompatActivity {
         };
     }
 
+    {
+        Token : "cutedog123"
+        Asset Mintable : 0
+    }
+
     protected abstract void onUpdate();
 
     @Override
